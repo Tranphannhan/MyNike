@@ -1,0 +1,14 @@
+.banner_img {
+    width: 93%;
+    overflow: hidden;
+    object-position: center;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.TextBannerPage{
+    padding-bottom: 25px;
+    padding-top: 30px;
+    width: 93%;
+    margin: auto;
+}

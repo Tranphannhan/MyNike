@@ -1,0 +1,79 @@
+.banner_img {
+    width: 93%;
+    overflow: hidden;
+    object-position: center;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.TextBannerPage{
+    padding-bottom: 25px;
+    padding-top: 30px;
+    width: 93%;
+    margin: auto;
+}
+
+.Banner1{
+    width: 100%;
+}
+
+.feature_women{
+    width: 93%;
+    margin: auto;
+    margin-bottom: 80px;
+}
+
+.feature_text{
+    font-size: 26px;
+    margin-bottom: 25px;
+}
+
+.feature_container{
+    width: 100%;
+    display: flex;
+    gap: 10px;
+}
+
+.f_c_img{
+    width: 100%;
+    aspect-ratio: 1.5/1;
+    object-fit: cover;
+    object-position: center;
+}
+
+.f_container_item{
+    position: relative;
+    width: 50%;
+}
+
+.f_c_i_text {
+    position: absolute;
+    left: 10%;
+    bottom: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+    font-size: 18px;
+}
+
+.f_c_i_Button{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    padding: 5px 13px;
+    border-radius: 100px;
+}
+
+.f_c_i_ButtonWite{
+    background-color: white !important;
+    color: black !important;
+}
+
+.f_c_i_Text{
+    font-size: 18px;
+}
+
+.f_c_i_TextWhite{
+    color: white;
+}
